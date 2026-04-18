@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git -C /Users/yeonkimin/workspace/my-profile-site add .gitignore)",
+      "Bash(git -C /Users/yeonkimin/workspace/my-profile-site commit -m \"Initial commit: Add profile website\")",
+      "Bash(git -C /Users/yeonkimin/workspace/my-profile-site status)",
+      "Bash(git -C /Users/yeonkimin/workspace/my-profile-site remote add origin https://github.com/Yeonki-Min/my-profile-site.git)",
+      "Bash(git -C /Users/yeonkimin/workspace/my-profile-site remote -v)",
+      "Bash(git *)"
+    ]
+  }
+}
